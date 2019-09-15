@@ -13,7 +13,7 @@ Hospital_General_Information.txt (3.6 MB) (https://catalog.data.gov/dataset/hosp
 # How to run the code:
 There are three classes that are AppRun.cs, Hospital.cs and HospitalDataProcessor.cs. AppRun.cs has the Main() function to run this program.
 
-On Windows: please put the dataset (Hospital_General_Information.txt) at C:\temp\ folder (or you can change the dataset location path in AppRun.cs and change move the dataset to a different location accordingly)
+On Windows: please put the dataset (Hospital_General_Information.txt) in C:\temp\ folder (or you can change the dataset location path in AppRun.cs and change move the dataset to a different location accordingly)
 
 On Mac/Linux: please change the dataset location path in AppRun.cs and change move the dataset to a different location accordingly.
 
