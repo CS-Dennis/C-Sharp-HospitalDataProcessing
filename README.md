@@ -13,3 +13,8 @@ There are three classes that are AppRun.cs, Hospital.cs and HospitalDataProcesso
 On Windows: please put the dataset (Hospital_General_Information.txt) at C:\temp\ folder (or you can change the dataset location path in AppRun.cs and change move the dataset to a different location accordingly)
 
 On Mac/Linux: please change the dataset location path in AppRun.cs and change move the dataset to a different location accordingly.
+
+# Reesults:
+
+
+Created by Nan Ye - LinkedIn https://www.linkedin.com/in/nanyegis/
