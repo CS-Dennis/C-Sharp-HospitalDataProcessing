@@ -7,6 +7,9 @@ This simple project is performing a quick data analysis on a public health datas
 # Purpose:
 Choose all hospitals from Texas (or any other state as you choose) that are government owned, meaningful use of EHRs enabled, and same as or above the national average of patient expierence, then create a new tab-delimited file. Test the runtime speed of this program wrriten in C#.
 
+# Dataset Description:
+Hospital_General_Information.txt (3.6 MB) (https://catalog.data.gov/dataset/hospital-general-information) with 29 columns and 5335 rows (including a header).
+
 # How to run the code:
 There are three classes that are AppRun.cs, Hospital.cs and HospitalDataProcessor.cs. AppRun.cs has the Main() function to run this program.
 
