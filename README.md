@@ -19,6 +19,6 @@ On Mac/Linux: please change the dataset location path in AppRun.cs and change mo
 
 # Reesults:
 This program was run on a MacBook Pro (Retina, 15-inch, Mid 2014), 2.2 GHz Intel Core i7, 16 GB 1600 MHz DDR3 for 10 times.
-Each runtime durations are (in milliseconds) 97, 97, 98, 97, 97, 99, 98, 97, 97, 99. The average time duration is 97.6 milliseconds.
+Each runtime durations are (in milliseconds) 55, 56, 56, 55, 56, 56, 57, 56, 57, 58. The average time duration is 56.2 milliseconds.
 
 Created by Nan Ye - LinkedIn https://www.linkedin.com/in/nanyegis/
