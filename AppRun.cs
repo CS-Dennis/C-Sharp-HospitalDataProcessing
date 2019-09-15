@@ -9,7 +9,6 @@ namespace HospitalDataAnalysis
         public static void Main()
         {
             var timeNow = DateTime.Now.Millisecond;
-            //var dataPath = @"C:\temp\Hospital_General_Information.txt";
             HospitalDataProcessor processor1 = new HospitalDataProcessor(@"C:\temp\Hospital_General_Information.txt");
 
             processor1.HospitalByStateGovernmentMeaningfulUseEHR("TX");
