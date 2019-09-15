@@ -42,6 +42,7 @@ namespace HospitalDataAnalysis
             }
 
             Hospitals = _Hospitals;
+            originalData.Close();
         }
 
         
